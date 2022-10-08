@@ -3,7 +3,7 @@
     {
         "title": "LA County Trivia: Overseas Influences",
         "path": "proto-config",
-        "description": "Putting your geo-trivial knowledge to the test! GIS Day ☻ LA County ☻ 2022 ☻",
+        "description": "GIS Day ☻ LA County ☻ 2022 ☻ Let's put your geo-trivial knowledge to the test...",
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/survey123_0052b46a58d4452e99d8d86f225cc37b_stakeholder/FeatureServer/0",
         "introImage": "./intro.PNG",
         "initCenter": [-118.247604, 34.058194],
