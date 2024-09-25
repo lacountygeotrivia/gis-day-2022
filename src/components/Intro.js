@@ -47,7 +47,7 @@ export const Intro = ({
                         backgroundImage: `url(${hero})`,
                         backgroundRepeat: "no-repeat",
                         backgroundPosition: "center",
-                        backgroundSize: "cover",
+                        backgroundSize: "contain",
                         maxHeight: "500px"
                     }}>            
                 </div>
